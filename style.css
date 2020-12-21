@@ -100,12 +100,12 @@ padding-bottom: 0px;
   border-radius: 3px;
   font-size: 0.875rem;
   right: 80px;
-  padding: 10px;/*it was 20px*/  
-  display: flex;/*added later*/
-  justify-content: space-evenly;/*added later..............*/
-  align-items: center;/*added later*/
-  height: 3.5em;/*added later*/
-  top: 100px;/*added later*/
+  padding: 10px; 
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 3.5em;
+  top: 100px;
   }
 
 .item2-secondrow {
@@ -114,12 +114,12 @@ padding-bottom: 0px;
   border-radius: 3px;
   font-size: 0.875rem;
   right: 30px;
-  padding: 10px;/*it was 20px*/  
-  display: flex;/*added later*/
-  justify-content: space-evenly;/*added later*/
-  align-items: center;/*added later*/
-  height: 3.5em;/*added later*/
-  top: 30px;/*added later*/
+  padding: 10px; 
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 3.5em;
+  top: 30px;
 }
 
 .item2-thirdrow {
@@ -129,12 +129,12 @@ padding-bottom: 0px;
   font-size: 0.875rem;
   left: 20px;
   right: -20px;
-  padding: 10px;/*it was 20px*/  
-  display: flex;/*added later*/
-  justify-content:space-evenly;/*added later*/
-  align-items: center;/*added later*/
-  height: 3.5em;/*added later*/
-  top: -40px;/*added later*/
+  padding: 10px; 
+  display: flex;
+  justify-content:space-evenly;
+  align-items: center;
+  height: 3.5em;
+  top: -40px;
 }
 
 .item2-firstrow, .item2-secondrow, .item2-thirdrow {
